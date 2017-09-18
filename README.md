@@ -1,8 +1,8 @@
-# Nautilus
-
 <p align="center">
   <img src="hero.png" alt="Hero banner">
 </p>
+
+# Nautilus
 
 ## Overview
 
