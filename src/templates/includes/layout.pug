@@ -1,0 +1,37 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='description', content=description)
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    include cards
+    title #{title}
+    // Disable tap highlight on IE
+    meta(name='msapplication-tap-highlight', content='no')
+    // Color the status bar on mobile devices
+    meta(name='theme-color', content=themeColor)
+    include /html/favicons.html
+    style
+      include /styles/inline.css
+    noscript#deferred-styles
+      link(rel='stylesheet', href=stylesFile)
+    script
+      include /scripts/inline.js
+    style
+      include /styles/inline.css
+    noscript
+      style.
+        body {
+          overflow: visible;
+        }
+
+        #loader {
+          display: none;
+        }
+  body
+    include /svg/spritesheet.svg
+    #loader
+    block content
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', defer)
+    script(src=scriptsFile, defer)

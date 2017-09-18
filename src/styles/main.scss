@@ -1,0 +1,36 @@
+@import "vendor/bootstrap/functions";
+@import "vendor/bootstrap/variables";
+@import "vendor/bootstrap/mixins";
+@import "vendor/bootstrap/reboot";
+@import "vendor/bootstrap/type";
+@import "variables";
+
+body {
+  background-color: $haiti;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.logo {
+  width: 50vmin;
+  height: 50vmin;
+  margin-bottom: 2vmin;
+}
+
+.logo use {
+  fill: $macaroni-and-cheese;
+}
+
+.title {
+  color: $dull-lavender;
+  font-family: $font-family-monospace;
+  font-size: 8vmin;
+  margin-bottom: 0;
+}

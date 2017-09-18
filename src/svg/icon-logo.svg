@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="356px" height="308px" viewBox="0 0 356 308" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-142.000000, -182.000000)" fill="#353535">
+            <g transform="translate(142.000000, 159.000000)">
+                <g transform="translate(91.000000, 159.000000)">
+                    <polygon points="0 23 111 23 84 70 27 70"></polygon>
+                    <polygon transform="translate(77.890625, 112.211914) rotate(-120.000000) translate(-77.890625, -112.211914) " points="22.390625 88.7119141 133.390625 88.7119141 106.390625 135.711914 49.390625 135.711914"></polygon>
+                    <polygon transform="translate(124.101597, 59.814410) rotate(120.000000) translate(-124.101597, -59.814410) " points="68.601597 36.3144099 179.601597 36.3144099 152.601597 83.3144099 95.601597 83.3144099"></polygon>
+                </g>
+                <g>
+                    <polygon points="0 23 111 23 84 70 27 70"></polygon>
+                    <polygon transform="translate(77.890625, 112.211914) rotate(-120.000000) translate(-77.890625, -112.211914) " points="22.390625 88.7119141 133.390625 88.7119141 106.390625 135.711914 49.390625 135.711914"></polygon>
+                    <polygon transform="translate(124.101597, 59.814410) rotate(120.000000) translate(-124.101597, -59.814410) " points="68.601597 36.3144099 179.601597 36.3144099 152.601597 83.3144099 95.601597 83.3144099"></polygon>
+                </g>
+                <g transform="translate(183.000000, 0.000000)">
+                    <polygon points="0 23 111 23 84 70 27 70"></polygon>
+                    <polygon transform="translate(77.890625, 112.211914) rotate(-120.000000) translate(-77.890625, -112.211914) " points="22.390625 88.7119141 133.390625 88.7119141 106.390625 135.711914 49.390625 135.711914"></polygon>
+                    <polygon transform="translate(124.101597, 59.814410) rotate(120.000000) translate(-124.101597, -59.814410) " points="68.601597 36.3144099 179.601597 36.3144099 152.601597 83.3144099 95.601597 83.3144099"></polygon>
+                </g>
+                <g transform="translate(165.161197, 132.161197) scale(-1, 1) rotate(-60.000000) translate(-165.161197, -132.161197) translate(78.661197, 45.661197)">
+                    <polygon points="0 23 111 23 84 70 27 70"></polygon>
+                    <polygon transform="translate(77.890625, 112.211914) rotate(-120.000000) translate(-77.890625, -112.211914) " points="22.390625 88.7119141 133.390625 88.7119141 106.390625 135.711914 49.390625 135.711914"></polygon>
+                    <polygon transform="translate(124.101597, 59.814410) rotate(120.000000) translate(-124.101597, -59.814410) " points="68.601597 36.3144099 179.601597 36.3144099 152.601597 83.3144099 95.601597 83.3144099"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
