@@ -6,7 +6,7 @@
 
 ## Overview
 
-Nautilus is a starter kit for web development.
+Nautilus is an advanced starter kit for web development.
 
 ## Todo
 
