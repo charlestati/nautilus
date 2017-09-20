@@ -67,7 +67,7 @@ const scriptsConfig = {
 }
 
 const faviconsConfig = {
-  inputDir: svgConfig.inputDir,
+  inputDir: './',
   inputFile: 'favicon.svg',
   outputDir: path.join(distDir, staticDir),
   outputHtmlDir: path.join(tmpDir, htmlDir),

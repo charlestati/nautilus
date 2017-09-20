@@ -4,5 +4,8 @@ include includes/mixins
 
 block content
   .wrapper
-    +icon('logo')(class='logo')
+    // Use this mixin for sprite sheet icons
+    // +icon('logo')(class='logo')
+    .logo
+      include /svg/logo.svg
     h1.title Nautilus
